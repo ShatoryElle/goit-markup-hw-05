@@ -816,7 +816,7 @@ img {
 .modal__check-box {
     
     justify-content: center;
-    /*align-items: center;*/
+    align-items: center;
     width: 16px;
     height: 16px;
     border-radius: 2px;
