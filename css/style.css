@@ -1038,8 +1038,7 @@ transform: translate(-50%, -50%) scale(1.5);
 }
 
 .modal__text-field:focus {
-    border-color: #5b63d6;
-    /* колір iris */
+    border-color: #4D5AE5;
 }
 
 .modal__check-wrapper {
@@ -1052,11 +1051,11 @@ transform: translate(-50%, -50%) scale(1.5);
     border: none;
     fill: #E7E9FC;
     /* колір cloud */
+    color: #8e8f99;
 }
 
 .modal__check-input:checked+.modal__check-text .modal__icon-check {
     fill: #E7E9FC;
-    /* колір cloud */
 }
 
 .modal__check-box {
@@ -1078,7 +1077,7 @@ transform: translate(-50%, -50%) scale(1.5);
 }
 
 .modal__check-text {
-    color: #404bbf;
+    color: #8e8f99;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
